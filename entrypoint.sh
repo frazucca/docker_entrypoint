@@ -28,8 +28,8 @@ function config_user()
     #  if NOUSER is set, do nothing.                 #
     #================================================#
 
-    DEFAULT_USER="umberto"
-    DEFAULT_UID="1002"
+    DEFAULT_USER="franzu"
+    DEFAULT_UID="1000"
     DEFAULT_GID="100"
 
     [[ -n "$NOUSER" ]] && \
