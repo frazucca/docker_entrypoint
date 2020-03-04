@@ -28,7 +28,7 @@ function config_user()
     #  if NOUSER is set, do nothing.                 #
     #================================================#
 
-    DEFAULT_USER="user"
+    DEFAULT_USER="franzu"
     DEFAULT_UID="1000"
     DEFAULT_GID="100"
 
